@@ -1,0 +1,17 @@
+=== DOMAIN CLASSIFICATION ===
+Domain Classification Accuracy: 0.839375
+Classification Report:
+                precision    recall  f1-score   support
+
+configuration     1.0000    0.8063    0.8927       160
+       device     0.7156    0.9984    0.8337       640
+     greeting     0.9904    0.6458    0.7818       480
+    operation     1.0000    0.8281    0.9060       320
+
+  avg / total     0.8834    0.8394    0.8385      1600
+
+Confusion Matrix:
+ [[129  31   0   0]
+ [  0 639   1   0]
+ [  0 170 310   0]
+ [  0  53   2 265]]

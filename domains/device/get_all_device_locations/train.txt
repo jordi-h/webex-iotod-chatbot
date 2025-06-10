@@ -1,0 +1,640 @@
+Can I see the full map of every device?
+I want to know where every device is.
+Where's each device on the map?
+Please list all device coordinates.
+I'd like to see every device's location.
+All devices? Where are they?
+Could you pull up every device's location?
+Map all devices now.
+I need the positions of all devices.
+All locations for all devices, please.
+Show me the map of all devices.
+Could I see where each device is physically?
+Coordinates for all devices?
+Tell me the location of every device.
+I want to see the location details of all devices.
+List all the places my devices are.
+Pull up all device geos.
+Give me all the device locatoins.
+All device maps, please.
+I'd love to know where every single device sits.
+Show me the distribution of all devices.
+Which location is each device in?
+I need every device's physical spot.
+Could you give me all device geolocations?
+Please map out every device location.
+All device geodata, please.
+Where do all the devices live on the map?
+Let me see geolocations for all devices.
+Show me each device's coordinates.
+All device positions, thanks.
+Where can I find each device physically?
+Device location info for all units, please.
+Full location list for every device.
+Where is everything placed right now?
+I want the map view of all my devices.
+Give me a list of all device geograhical spots.
+Could you reveal each device's location?
+Pull all device location data.
+Where are all my devices physically located?
+Can I get all device coords?
+All device location details, if possible.
+Please fetch me the locations of all devices.
+Show me all device coordinates now.
+List out the physical location of every device.
+Where exactly are all these devices?
+Can you show me the global position of each device?
+All devicess location, please. 
+I need a location breakdown for all devices.
+What's the geodata of all my devices?
+Where is each device situated?
+Locations for all devices in one go.
+I'd like every device's position on a map.
+Map out all devices for me, please.
+Where do my devices show up on the map?
+Could I see a list of all device spots?
+List the geographic location for every device.
+Show the device location for the entire fleet.
+All device geoinfo, please.
+I want to see the location for each of my devices.
+Give me everything on where devices are now.
+Please share the map pins for all devices.
+Where does each device appear in the world?
+Every device's map location, please.
+Get me the device locations, all of them.
+Show me all devices by their GPS points.
+I want to see each device’s coordinates.
+How about the location listing for all devices?
+Map location for every device is needed.
+All device geos, if you can.
+Where's my entire device set located?
+Let me see each device’s physical location.
+Device positions for all devices, please.
+Where are these devices placed around the globe?
+Gather location info for all devices now.
+Get me every device's geolocation details.
+Location of all devices? I'd like that.
+Could you present all device coordinates?
+I'd like to see the entire set of device geos.
+Send me the location for all devices.
+I want to know exactly where each device sits.
+Where do all these devices exist physically?
+Map all device coordinates right now.
+List the physical address for each device.
+Show me the entire device location overview.
+Could you list each device location for me?
+Display all device geodata, please.
+I need to see the coordinates of all devices.
+Where is my complete device set located?
+I'd love a location summary for each device.
+Let me view the GPS points for all devices.
+Where’s each device on Earth?
+Get me the geographical location of all my devices.
+Show me the global positions of my entire fleet.
+Where exactly can I find each device?
+All device locatoins, please. 
+Please fetch me the geo details of all devices.
+I want to see a map with all devices pinned.
+Could you identify each device's spot?
+List every device’s location, thanks.
+Let me see all device geoinformation.
+I need the location for all devices I own.
+What's the map coordinate for every device?
+Give me the entire distribution of my devices.
+Could you provide a location list for each device?
+Show me where each device is placed right now.
+Positions for all my devices in one place, please.
+Pull all device coords, thanks.
+Where do all my devices stand geographically?
+Could I get the location data for all devices at once?
+Give me each device's lat/long now.
+Where is my device fleet physically located?
+Please provide me with all device location info.
+I want every device’s geolocation chart.
+All devices on a map — I'd like that.
+Show me where each device is installed.
+Map out the entire device group, please.
+Where do the devices appear if I map them out?
+Could you show me a list of all device geos?
+The location for each device, please.
+I need a device location listing for the entire set.
+I want to see device location for the full network.
+Let me see the device lat/long details.
+Could you show me the physical address of all devices?
+Where are they actually set up?
+Pull a location list for each device, please.
+All device location, now please.
+Every device's map pin? I'd like that.
+Which country or city is each device in?
+I want an overview of all device placement.
+Could you reveal each device’s position for me?
+Show me a quick map of all devices.
+All device positions in a single list, please.
+Where exactly are the devices in my fleet?
+Please show me the geospots for all devices.
+Could you gather the location data for all devices now?
+Is there a map for all these devices’ positions?
+Geographical info for all devices, yes please.
+Let me see the entire location set for each device.
+Pull up the location references for all devices.
+I'd like to know the positions of every device currently.
+Map location details for each device, please.
+All device addresses, if you can.
+Coordinates of all devices, I'd appreciate it.
+Could you share the location for each device in my network?
+Which spot is each device located at?
+I'd like a geography list for all devices.
+Where do my devices appear in physical space?
+Let me see all device geolocation details at once.
+Pull every device's location listing, please.
+What are the lat/longs of all my devices?
+Where is each device's exact spot?
+Could you bring me the entire device location set?
+Where are all my devices deployed physically?
+Show me each device's location on a map.
+List the location of each device in the system.
+I'd like every device’s physical address or coordinates.
+All device spots, if possible.
+Could I see the entire location distribution of devices?
+Let me see each device's GPS info.
+All device locations? I'd like them now.
+Where are every one of my devices physically set up?
+Show me the geographical data for all devices.
+Could you list the location for each device quickly?
+Map out all devices in my network.
+Positions for all devices, can I get that?
+I want to see each device's place on Earth.
+I'd like every device location in a single overview.
+Where is my entire device roster located?
+Every device's lat/long, thanks.
+Could you show me location info for the entire device list?
+List the map spots for all my devices.
+Where's everything physically installed?
+Show me the geodata for every device in the network.
+Could you share the coordinate data for all devices?
+Get me the addresses of each device.
+I want a quick location summary for each device.
+How about the device location for the whole group?
+Map them all out for me.
+Could I see a pinned map of my devices?
+Let me see device location for every single one.
+Coordinates for all device nodes, please.
+Can you fetch me the geoinfo for every device?
+I need the entire location record for all devices.
+Show me all device lat/long references.
+Could you detail each device's place on Earth?
+Location data for all devices, now please.
+Where do they all appear physically?
+Let me see every device's GPS point.
+Map location for all devices in my account.
+Pull the location info for each of my devices.
+All device geolocation data is what I want.
+Could you share the device positions across the board?
+List me every device location, please.
+I want to see the entire distribution of device spots.
+Show me the physical position for all devices now.
+I need the coordinates for each device on file.
+Could you gather the lat/long for all devices?
+Map out the entire device group, thanks.
+Which location is each device assigned to?
+I'll take a summary of all device geos, thanks.
+Let me see exactly where each device is pinned.
+Can you provide location points for all devices?
+All device geodata is needed now.
+Show me the full location detail for every device.
+Positions for every device in my system, please.
+Could I see the entire device map layout?
+Where is each device in a city or region sense?
+The entire location set for my devices, if you don't mind.
+I'd love to see the lat/long for each device.
+Please map every device's position.
+Could you present me with the device location data for all?
+I need to see the geocoordinates of all these devices.
+Which spots on Earth hold my devices?
+All device location info is needed right now.
+Get me the entire coordinate set for my devices.
+Where exactly do my devices operate physically?
+Map out the entire device roster for me.
+Let me see a full table of device positions.
+All devices, all locations. Now please.
+Coordinates for the whole fleet, please.
+I need a complete map of device placements.
+Let's see device location data for everything.
+I want to see real-world spots for every device.
+Please gather the location info for all devices.
+Let me visualize the location of each device.
+All device lat/long in one shot, please.
+Could you compile the location for all devices, thanks.
+I want a listing of device geos across the board.
+Every device location is needed, can you show me?
+Positions for each device, I'd like that.
+Fetch me each device's coordinate data, please.
+All device geodata, I'd love to have it now.
+Where does each device actually exist physically?
+Show me a location listing for my full device range.
+Please show me all device geographics.
+All device georaphy, please. 
+Where are they all installed, exactly?
+Get me the geoinfo for the entire device list.
+List every device's position in the world.
+A map pin for all devices would be nice.
+Could you present the address data for each device?
+I want to see the location summary for all devices.
+Where are all the devices scattered?
+Show me the geolocation summary for my devices.
+All device location points are needed.
+Give me all device location details.
+Which location is each device pinned to?
+Let me see the device location info for everything.
+I need each device's site on Earth.
+Please show me the coordinates for every device I have.
+Map out all devices for a full overview.
+Could you provide me with the lat/long for each device?
+All device location data in a single list, please.
+Show me the map of every device’s position.
+I need the real-world location of all devices.
+Pull every device's geolocation records.
+How about the GPS data for all devices, please?
+I'd like to see the city or country each device is in.
+All device location references, yes please.
+Could you show me every device location visually?
+Let me have the coordinates for the entire device set.
+Positions for my entire device network, thanks.
+I want to see them pinned: all devices, that is.
+Tell me the location for every device in inventory.
+Could you map out each device for me?
+I need all device geoinfo in one shot.
+Where's each device on the planet?
+List me every device's location quickly.
+Where do all these devices exist on Earth?
+Show me their positions, all devices.
+Pull the lat/long details for all devices, please.
+Could you get me the location for each device in the system?
+All device coordinates are needed now.
+I want a map view of all device placements.
+List out each device's location details.
+I need location for the entire device fleet.
+Where is everything in terms of geography?
+Please gather every device's GPS data.
+Could you reveal the location info for every device I have?
+Show me device location data for the total set.
+All device geos, let’s see them.
+I want to see how they're spread out physically.
+Could you pinpoint each device's location now?
+Get me a location listing for my entire device roster.
+Where does each device show up on Earth?
+Display me the geoinfo for all devices in the system.
+Positions, please — for every device.
+I need a map-based look at my entire device set.
+Where are my devices located? All of them.
+Could you show the location for every single device I own?
+Please show me how devices are distributed physically.
+All device location data is required, please.
+Map them all, every device in the system.
+Let me see every device's real-world position.
+Pull up location info for my entire device network.
+I want a single reference for all device geodata.
+Which region or area is each device in?
+All device location references, I'd like them.
+Show me a compiled list of all device coordinates.
+I need a quick look at all device locations.
+Could you itemize every device's location?
+Let me see how they're mapped around the globe.
+Where is each device in the entire network?
+GPS data for the entire device group, thanks.
+Display the real location for each device now.
+I need everything about device geo-locations.
+Show me a distribution of devices by coordinates.
+List me the positions of each device so I can see them.
+All device locatoins, I'd like that. 
+Where's every device in terms of lat/long?
+Please show me the global placement of all devices.
+Get me the location data for each device out there.
+Which location is assigned to each device, again?
+Map out all the device coordinates in one go.
+Could you show me the physical presence of every device?
+I want a location breakdown for every device.
+Let me see the entire device geoinfo set, please.
+Positions for all devices in a quick list.
+Where are they all placed? I'd like to know.
+All device geoinformation in a table, please.
+Give me the lat and long for all my devices.
+Could you provide the city or coordinates for each device?
+Show me each device's place in the world.
+I need the exact spots of all devices I manage.
+Location references for every device, yes please.
+Pull me up a location map for all devices.
+Let me see an entire listing of device coordinates.
+Which place is each device physically in?
+Show me the location details for the whole device set.
+Could you gather the entire device location info for me?
+Where do my devices appear if we check the map?
+Positions for each device, I'd like to see them all.
+Give me a quick snapshot of all device locations.
+I need a location readout for every single device.
+Please show me the map distribution of my devices.
+Could you compile the coordinates for each device?
+Where do all the devices exist physically right now?
+List all device lat/long in a single overview.
+I want the entire device location arrangement.
+Could you show me the location for all active devices?
+Show me exactly where devices are placed globally.
+I'd like to see the physical addresses of my devices.
+Fetch location data for every device, please.
+All devices, all positions. Gimme that.
+Map them all, I'd like to see every device location.
+Coordinates for each device, in one list, please.
+Where are my devices physically installed? Show me.
+I want to know the real location of all devices.
+Could you produce the location details for everything?
+List out the lat/long info for all devices.
+Show me the entire fleet's geodata, thanks.
+Get me a map listing for every device I own.
+I want the addresses of all the devices, if possible.
+Could I get a quick device location summary?
+All device positoins, please. 
+Where exactly are they in the world? All devices.
+Pull up device location info for the entire set.
+Please gather each device's location in a doc.
+Show me the global distribution of my devices.
+I want the location data for the entire device roster.
+Could you show me the lat/long for all devices, quick?
+Map them out, every device I'm managing.
+Positions for my devices, I'd appreciate it.
+Let me see the physical location references for each one.
+Where is each device stationed on Earth?
+All device geocords, please. 
+I need to see the location set for all these devices.
+Could you share the geographical data for every device?
+All device location info, please.
+Where do they all reside physically?
+Fetch me every device's location listing.
+I want them pinned, each device on a map.
+Could you collect the device geoinfo for me?
+All device geodata in one chunk, thanks.
+Where physically do these devices get installed?
+Let me see the location distribution of all devices.
+Pull me up every device's map point, please.
+Geographical spots for each device, please.
+Could you pull the addresses for every device I own?
+Where is everything located physically in the network?
+Display me the device location data collectively.
+I want to see each device's geolocation, now.
+All device locatoins in a single file? Thanks. 
+Let me see a quick overview of device positions.
+Map out the entire device array for me.
+Could you show me all the lat/lons for these devices?
+I need an organized list of every device location.
+Where are each of my devices set up physically?
+Coordinates for all devices, I'd appreciate it.
+Which places do these devices correspond to on a map?
+All device location references, I'd like them now.
+Show me the entire device distribution physically.
+Can you fetch me the geodata for all device nodes?
+Positions for each device, in one place, please.
+Let me see the addresses of all the devices in my fleet.
+Where do we find each device physically, again?
+All device GPS data, I'd like that soon.
+Could you produce the lat/long for the complete device set?
+Map them, all devices in the network, please.
+I want a compiled list of where each device sits.
+Show me the location breakdown for every device.
+List me the full location info for all my devices.
+Where is everything physically? I'd love to see that.
+Coordinates for the entire device set, if you can.
+Let me see the device positions for all I've got.
+Pull all device location references, thanks.
+Could you show me an overview of every device's location?
+Which location does each device belong to physically?
+All device geodata in a single overview, please.
+Where on Earth do these devices actually run?
+I'd like a listing of device GPS coordinates.
+I want to see how they're physically distributed.
+Could you share a map of all device positions with me?
+Which city or region is every device in?
+Pull every device's location, I'd appreciate that.
+All device location details, now please.
+Where is the entire set of devices based physically?
+Display me the geoinfo of each device, all at once.
+Let me see a complete location summary for all devices.
+Coordinates for each device, quickly, thanks.
+Could you show me the physical addresses for each device?
+Get me a map overview of every device location.
+I need the location details for my complete device list.
+Could you produce a location set for each device, please?
+All device positions, I'd love to have them now.
+Tell me how these devices are located physically.
+Where is each device if we check a map?
+Let me see the entire geoinformation for my devices.
+Coordinates for all device units, please.
+Could you share the addresses for each device in my system?
+All device location, in detail, I'd appreciate it.
+I want to see the entire physical distribution of devices.
+Show me a listing of each device's lat/long.
+Map out every device in one shot, please.
+Which location is assigned to each device physically?
+What are the real-world spots for all these devices?
+Show me coordinates for the entire device library.
+Positions for each device, I'd want that quickly.
+I need a big overview of all device geos.
+Please produce the map references for each device.
+Where are all devices physically, if we check globally?
+All device location data, I'd appreciate it.
+Let me see how they are laid out physically, each device.
+Pull all device GPS points, thanks.
+I want to see the lat/long for the entire device set.
+Show me a real map of all my device positions.
+Which position belongs to each device physically?
+All device geolocation info is needed.
+Fetch me the location for every device in the network.
+Coordinates for each of my devices, please.
+Where are all these devices placed in the real world?
+I want them all pinned, each device location.
+All device geodata in one file, I'd like that.
+Let me see the distribution of devices on a map.
+Positions of each device, please share.
+Which location does each device correspond to?
+All device location references, quickly, thanks.
+Could you gather all device lat/long sets now?
+Map them out, each device, for me to see.
+I want an itemized list of every device's address.
+Show me where the devices are physically placed, all of them.
+Fetch me every device's geoinfo now, please.
+All device location, I'd love an overview.
+Where in the world is each device located physically?
+I need coordinates for all my active devices.
+All device geoinfo, I'd like a copy.
+Let me see a map or list with each device's spot.
+Positions for the entire device fleet, please.
+Where does each device exist in real terms?
+Map out the lat/long for every device in the system.
+Could you present me with each device's location references?
+All device locatoins are needed right away. 
+I want to see everything about device positions across the network.
+Show me the location summary for all devices, now.
+Let me see each device’s location in a big list.
+Display me the physical map for each device’s position.
+All device location data — I'd love to see it compiled.
+Positions for each device, I'd be grateful.
+Which city or region houses each device physically?
+I want a full geo breakdown for every device I manage.
+Show me device geoinfo for the whole group.
+Pull me a location list for each device under my control.
+All device lat/long details, let's have them.
+Could you present me with a big map of all device positions?
+Where on Earth do all these devices reside physically?
+I'd like to see device location references for everything.
+Coordinates for all devices in my environment, please.
+Show me how they're physically arranged, each device.
+Let me see the lat/long for all devices in one go.
+Could you gather the addresses for all my devices?
+Map them all, I'd like the entire location picture.
+Positions for all devices, I'd like to check them.
+Where do my devices appear physically, altogether?
+Please show me each device's place on a global scale.
+All device location references in a single summary, please.
+Display me the global device map for all devices.
+Get me a listing of lat/long for each device, thanks.
+I want to see the real-world coordinates of my entire set.
+Could you show me the location points for all these devices?
+Where physically does each device stand?
+List every device location in one doc, please.
+Let me see a big overview of each device's position.
+Map out every device's coordinates for me, please.
+Which address does each device correspond to physically?
+Could you produce all device lat/long references quickly?
+I want the entire location data for my device list.
+Give me a map-based layout of all devices, please.
+All device positions, let's see them in a single list.
+Where do these devices exist in terms of GPS?
+Show me each device's location if you can.
+I need a consolidated location set for my entire device collection.
+Coordinates for all devices is what I'm after.
+Could you get me the addresses for each device in the system?
+All device location data, I'd like that displayed.
+Positions for the full device fleet, please.
+I want the lat/long for everything under my management.
+Could you show me a map of all device locations quickly?
+Map them: every device's location, I'd love that.
+All device geoinfo, I'd like it in one place.
+Pull me the location references for all devices I own.
+I need the entire location layout for each device.
+Give me a single table of all device locations, please.
+All device positions across the entire system, I'd like them.
+Where are they physically set up? Each device, I mean.
+Show me the lat/long references for the entire device set.
+Let me see a distribution map for all devices, please.
+Could you share the location data for the entire device roster?
+Map them out, I'd like to see exactly where they all are.
+Positions for each device, can I have that list?
+Which region does every device belong to physically?
+All device location details, I'd appreciate.
+Get me every device's real-world position.
+Show me the entire location summary for all devices I manage.
+List me the geoinfo for every single device, please.
+I want the lat/long for every device in my system.
+Could you gather all device locations for me now?
+Display me how they're positioned physically, all devices.
+I need a location breakdown for the entire device set.
+All device positions in the entire environment, please.
+Show me the georefrences for my devices. 
+Which location is assigned to every device physically?
+Map the entire device group, I'd like that bird's-eye view.
+All device location info in a single page, please.
+I want the location data for each device quickly now.
+Where are they physically deployed, all devices?
+Show me each device's geolocation in detail.
+Pull me up the lat/long for all devices, I'd like that.
+Could you get me the full location references for these devices?
+Positions for the entire group of devices, please.
+Let me see all device addresses in one shot.
+All device geoinfo, I'd love a quick summary.
+Where exactly do these devices stand on Earth?
+I need the entire lat/long set for all my devices.
+Which location does each of my devices occupy physically?
+Positions, please, for every device in the fleet.
+All device location data if you can compile it.
+Where physically are these devices stationed right now?
+Show me the entire group’s geoinformation.
+I want an overview of every device’s location.
+Could you present the lat/long for all devices quickly?
+Pull me the location sets for the entire device roster.
+Where do these devices appear in real geography?
+Let me see the addresses or coordinates for every device.
+Coordinates for all the devices in my system, thanks.
+Show me how they're physically distributed, each device.
+I want to see the entire location layout of the fleet.
+All device location references, I'd appreciate having them.
+Let me see their real-world spots in one list.
+Show me the lat/long for everything in the device set.
+Map them out, I'd like a vantage of their positions.
+Coordinates for each device, I'd love a summary.
+Could you provide me with the location info for every device I manage?
+All device geodata in a single chunk, please.
+I need to see exactly where each device is placed now.
+Which location does every device correspond to physically?
+Fetch me the entire set of device addresses, please.
+All device positions, I'd like them sorted out.
+Where in the world do these devices actually run from?
+I want the lat/long data for all devices at once.
+All device location info, I'd love it in a single view.
+Let me see the addresses for everything I manage.
+Show me the entire geoinfo set for all my devices.
+I need a location listing for the complete device roster.
+All device geodata, I'd like that as soon as possible.
+Let me see the physical addresses for all devices quickly.
+Where does every device stand in real geography?
+All device location, I'd appreciate a neat list.
+I want to see them all pinned on a map, every device.
+Could you produce a location summary for each device I have?
+Coordinates for everything, please.
+Map them out so I can see the distribution of devices.
+Which location do these devices occupy physically?
+All device geoinfo, I'd like it compiled if possible.
+Pull me the addresses for the entire device set, please.
+Let me see a list of each device's position in real space.
+Show me every device's location on a single map.
+I need a coordinate listing for each device now.
+Where on Earth are all these devices placed, specifically?
+All device locatoins, I'd like them. 
+Could you retrieve the lat/long for every device I own?
+Positions for them all, I'd appreciate the clarity.
+Give me a distribution overview for each device's location.
+Where do they exist physically, all these devices?
+Show me the entire location set for the device roster.
+I need the addresses for each of these devices, please.
+Let me see the map-based info for all my devices.
+Which global location is assigned to each device physically?
+Map them out — all devices in my environment.
+Positions for every single device I'm running.
+All device location details, I'd like them updated now.
+Pull me the lat/long references for the entire group.
+Show me the distribution of devices across the globe.
+I want to see each device's address or coordinate, please.
+Could you gather all device positions and share them?
+Every device location in one consolidated list, thanks.
+Where do my devices all exist physically in the field?
+Let me see the entire geoinfo for all the devices.
+Coordinates for each device’s location, I'd appreciate it.
+All device location references, I'd like them in a doc.
+Display me how they appear physically, each device in the network.
+All device geodata, I'd love a quick look.
+Show me a pinned map of every device's location.
+Pull me location details for all my devices, please.
+I need the entire distribution for each device physically.
+Positions for them all, I'd like an itemized list.
+Where physically are the devices installed across the system?
+Map out each device's location so I can see it.
+I'd like the addresses for every device, or coordinates.
+All device geoinfo is needed, can you get that now?
+Let me see them all, the device positions, right away.
+Show me the entire device location roster.
+Where do these devices appear in the real world, exactly?
+All device locatons, I'd like them. 
+Could you provide every device's position in a single place?
+Coordinates for everything I'm managing, please.
+Map out the entire device environment so I can see each location.
+Positions for every device, I'd appreciate a summary.
+Fetch me the lat/long for my entire device list, thanks.
+Let me see each device's address or coordinate on a map.
+Show me all device geos in one final list, please.

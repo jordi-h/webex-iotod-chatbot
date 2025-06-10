@@ -1,0 +1,640 @@
+Show me all config groups.
+List my configuration groups.
+Could you display every config group?
+Pull up all of my config groups.
+I want to see all configuration groups.
+Fetch all config groups for me.
+Get me the full list of configuration groups.
+Show every config group, please.
+Let me see all groups of configurations.
+Could I see all the config groups at once?
+I’d like to check every configuration group.
+Bring up all the config groups now.
+List all the config groups you have.
+I’d love to see my config groups.
+Let me look at all config groups.
+Display every configuration group available.
+Can you list out the config groups?
+Could you fetch all configuration groups for me?
+I need a view of all config groups.
+Show me the config groups I have set up.
+Let me see my entire list of config groups.
+Bring me every possible configuration group.
+I’d like a list of all config groups.
+Could I see the entire set of config groups?
+Fetch every configuration group, if you can.
+Display the config groups for my devices.
+Can you list all existing config groups?
+Give me the complete config group list.
+List all config groups in one go.
+I want to see my config templates.
+Could you display all config groups I own?
+Please bring up the entire config group set.
+Let me check the available configuration groups.
+Every config group, please show me.
+I want a quick view of all config groups.
+Hand over the full config group list.
+What config groups do I have?
+Could you show my full config group listing?
+List out all config groups, thanks.
+I need every config group in the system.
+Give me each configuration group.
+Please reveal all my config groups.
+Show me all these configuration groups.
+Would you display all config groups for me?
+Bring me the config group list.
+Let me see the config group repository.
+Could you present all config groups right now?
+All config groups, right away.
+List them: all the config groups.
+I want each and every config group.
+Get me all config groups in one list.
+I'd like to see the entire config group set.
+Could I see what config groups exist?
+Display for me all config groups.
+I need all config groups displayed.
+Summon all the config groups.
+What config groups are set up?
+Let me look at the config group catalog.
+I want to see the configuration group collection.
+Pull up each configuration group, please.
+Give me a rundown of config groups.
+All config groups, in a single list.
+Please fetch all config group entries.
+I want an overview of every config group.
+Could you grab me the config group listing?
+Show me the entire config group library.
+Retrieve all config groups and show me.
+What’s the full set of configuration groups?
+I’d like all of my config groups at once.
+List the config groups for all my devices.
+Could I see every single config group, please?
+I need to see the config group pool.
+Where are the config groups? Show me.
+Tell me all my configuration groups.
+I’d like every config group available.
+Show me the set of all config groups.
+Let me view the config group details.
+Pull all the config groups, please.
+List them all: configuration groups.
+Every config group belongs here; show them.
+Fetch me the entire config group set.
+Could you gather all config groups for me?
+Bring me all configured group templates.
+I’d like to see my group templates.
+Show me all grouping templates for devices.
+What config groups do we have configured?
+Please list the entire config group library.
+Could you provide all config groups, please?
+Let me browse all the config groups.
+Show me what config groups we’re using.
+Collect and display every config group.
+Give me the full config group snapshot.
+I need the entire configuration group list.
+Pull up all device config groups, please.
+Could you show me each config group item?
+I'd like to see all existing config groups.
+Bring up the config groups you have on file.
+List out every group configuration.
+Could I see the entire configuration group range?
+Let me see all the group configs.
+I want a list of config groups for all device types.
+Show me config group templates in use.
+Please list each config group by name.
+Let me check the config group archive.
+Display for me the config group listings.
+Get me the config group table.
+Could you show me the configuration group references?
+All config groups, at once, if you can.
+Give me the entire config group repository.
+Let me see all the group definitions.
+Pull in all group configurations for me.
+Show me the group config library, please.
+What group templates do we have?
+I need the full set of configuration groups.
+Could you display all group config templates?
+Bring up all device group templates.
+Show the complete config group roster.
+I’d like to view the config group line-up.
+Give me the config group compilation.
+Could I see all config group definitions?
+List out every config grouping we have.
+Show the config group sets, please.
+Retrieve all config group data.
+Please fetch every config group entry.
+I want the entire list of group templates.
+Display the group templates we have.
+Could I see the complete config group index?
+Give me the config group list, short and sweet.
+Present all the config group records.
+Let me see config groups for each device type.
+I want every config group across the board.
+Show me my group configuration collection.
+Please reveal all known config groups.
+Need to see the config group registry.
+List my group templates in one place.
+All config groups are needed, please.
+Show every group config you can find.
+Could you gather the entire config group set?
+Fetch me all config groups you have.
+Let me see all my group configs now.
+Bring up the total config group listing.
+May I see each config group, please?
+I want the config group scoreboard.
+Display all config group categories.
+Show me the config group family.
+Need every config group in the system now.
+Which config groups exist for my devices?
+Pull up every config grouping you can.
+Give me a readout of all config groups.
+I’d like the config group doccumentation. 
+Let me see the entire group template library.
+Could you just show me all config groups?
+I want to see each group config you have.
+Bring all configuration groups forward.
+Show me the library of config groups.
+Reveal all config groups, thanks.
+I need a summary of config groups.
+Could you list the config group collection?
+Fetch the entire set of group configs.
+Please display the group config inventory.
+Show me all config groups in the system.
+Let me see the group configs in place.
+I want a listing of my config groups now.
+Please get every group configuration set.
+All device group templates, please show.
+Could you retrieve the entire config group listing?
+Bring me the config group data sets.
+I want to see group config templates in detail.
+List the config groups for all typed devices.
+Give me all config groups, no exceptions.
+Could I see the entire group config library?
+Pull up a list of all group templates, please.
+Let me see the config group lines.
+Need the group confgi list. 
+Please show me all group templates we have.
+Get me the big list of group config sets.
+Could you list every group config out there?
+Show me all group-based config sets.
+Let me check all config group references.
+Fetch all device group configs, please.
+Please gather the entire config group listing.
+I want a display of every group config.
+Could you show me all confg groups? 
+All group-based configurations, thanks.
+List the configuration groups used for templating.
+Bring up the config groups for all device categories.
+Reveal every single group config item.
+Could I see the group template listing, please?
+I need each group config reference.
+Show me the config group placeholders.
+Fetch me my config groups, all of them.
+List all config grouping definitions.
+Give me the big set of group configs.
+Display the group-based templates we have.
+Show me config groups for my entire network.
+Can I see the group configs in one shot?
+Let me examine all config groups quickly.
+Please bring up all my group templates.
+Show all group templates for device types.
+Need to see the config group listing for everything.
+Could you gather all group-based configurations?
+List all configuration groups I have on hand.
+Get me a read of the config group environment.
+Could I see the config group framework?
+Fetch the entire group config index, please.
+Show me config group sets for every device.
+Present the config group catalog, if you will.
+I need to view all the group template options.
+Please display every configuration group that exists.
+Bring me all config groups in our system.
+Could you show me all group definitions for devices?
+I want the config group aggregator.
+Let me check out the group config sets in use.
+Show me the device group configurations we store.
+I want to see the full set of group templates.
+Could you bring me each config group reference?
+Let me see the group config library right now.
+Get me an overview of config groups for everything.
+Show me all group configs in this environment.
+Could I see the entire library of config group info?
+I’d like to see each config group that’s active.
+Display all group-based config docments. 
+Bring up config group definitions for me.
+Let me see the group config distribution.
+What group config sets exist for my network?
+Could you fetch the entire group config set?
+Show me the config group references in detail.
+I want all group config templates, right away.
+Give me the sum of all config groups.
+Let me see all config group endpoints.
+Could I see the group config aggregator, please?
+Show me the config groups you can track.
+Pull the entire set of group-based config data.
+Bring me my group config definitions, please.
+I want all the config groups loaded.
+Could you show me all config group placeholders?
+Display the entire config group structure for me.
+Please fetch the config group set from the database.
+Which config groups are available for me?
+Could you show me the group config environment?
+Let me see all config group lumps. 
+I want to check each config group we hold.
+List all group-based device definitions now.
+Give me the group configs for all my device types.
+Could you display each device’s config group name?
+Show me the config group directory, thanks.
+I need to see all group templates in one shot.
+Please list every group config you can find.
+Fetch me the config group content.
+Could I see all config groups my system uses?
+Display the config group templates for me.
+All config groups belong on screen, please.
+I want every group template in the system.
+Could you get me the config group rundown?
+List them: each group config I can access.
+Please show the entire set of group templates.
+What are the config group sets for our environment?
+Bring up every group config item we store.
+I’d like the full config group matrix.
+Show me the group config selections.
+Please open the group config listing for me.
+Could you show me the entire group config world?
+Which group config templates do we have in place?
+Pull up my config group library, please.
+Let me see the config group inventory once more.
+Display all device templates for group configs.
+Could I get all config group listings in one place?
+Show me the group config placeholders for each device type.
+Bring up all config group metadata.
+I want to see the group config snapshot, thanks.
+Could you fetch every group config item we hold?
+Give me a thorough list of all config groups.
+Need to see every config group in the console.
+Show me the complete group config roser. 
+Let me see every group template made so far.
+Could you display each group config detail?
+All config group definitions, please.
+List the group-based configurations in this platform.
+Bring me each config group for my reference.
+I want an entire sweep of group config data.
+Could you gather the group config sets for me?
+Fetch all configuration groups from the system.
+Let me see the config group library in detail.
+Where are all the group templates? Show me.
+I’d like to see each group config that’s active.
+Please list all config group records we have.
+I need to see the group config blueprint.
+Bring up each group config for my devices.
+Display the group templates across the board.
+I want the entire set of group config references.
+Show me the group config blueprint for each device.
+List all config group items recognized by the system.
+Could you list each group config in the system?
+I need to see the config group set for my network.
+Bring up all config groups you can find, please.
+Could you show me the big config group listing?
+Give me a compiled list of config groups.
+I want to see each group config that’s installed.
+Please open up the entire config group library now.
+List out all config group objects for me.
+Show me all group-based configurations in existence.
+Fetch the config group stack, if you can.
+Display the config group dictionary, please.
+Let me see the config group layout overall.
+Bring up the complete config group dataset.
+Could you gather the config group definitions for me?
+List the group config sets for all device categories.
+Please fetch each group config item you have.
+I need all config groups in a single shot.
+Could I get a read on every config group right now?
+Pull up the entire listing of group configs, thanks.
+Show me the config group meltdown. 
+I want the group config compendium displayed.
+Please list out the group configurations at once.
+Which group templates do we store? Let me see.
+Could you show me all config group categories?
+Get me all the group configuration details.
+I want to see the config group references thoroughly.
+Show me each grouping template for the devices.
+List the entire group config library, thanks.
+Let me see all group-based config sets we hold.
+Could you gather every group config name for me?
+Pull up the group template listing, please.
+Please show me all config groups for my environment.
+I want every config group we can use.
+Display the group-based configs in the system now.
+Could you list the config groups in place for my devices?
+All config groups must be shown to me.
+Could you get me the group config listing in total?
+I want to see every group template known here.
+Which config groups do we have set up? Show me.
+Please list out all configuration groups recognized.
+Bring the entire group config summary on screen.
+Let me check each group config item in detail.
+Show me the group-based config sets, please.
+Fetch all config group frameworks we have.
+I want a short list of all group config definitions.
+Could you show me the config group aggregator now?
+List them all: group configs for my network.
+Please bring up all group config references in one go.
+I want the library of group config templates, thanks.
+Could you display the entire set of group-based configs?
+Get me each group config definition you hold.
+Show me the group config sets for every device type.
+All group config items are needed here.
+Could I see the group config reference chart?
+Present me with the entire group config suite.
+List the device group configurations we have now.
+I want to see each group config in your system.
+Display the config group notes for me.
+Please fetch the entire group config assembly.
+Pull up all config groups, across all devices.
+Which group templates do we have in our inventory?
+Could you show me the group config register, please?
+Let me see the entire stack of group configs.
+Bring me the group config set for the network.
+List out all the device group confgiurations. 
+Show me the group templates that are valid right now.
+Could you fetch all config group items from the database?
+Display each config group item for me.
+Need all group templates visible at once.
+Let me see the config group listing from top to bottom.
+Give me every group config in the environment.
+Could you show me the entire set of group-based templates?
+All config groups, right now, please.
+I want to see a list of group-based config references.
+Display the full group config overview.
+Could I check all config group sets in one place?
+Give me an itemized list of config groups, thanks.
+Let me see the group config blueprint for each device type.
+Show me the entire group template environment.
+Please fetch me all group config items, now.
+I want all group-based config definitions displayed.
+Let me see the group config sets in action.
+Show me the group template library that exists.
+Which config groups do we use for templates?
+List all device-based config groups we own.
+I’d like to see the entire config group store.
+Please collect all group-based config sets.
+Bring me everything about the config groups we hold.
+Show me the group template definitions in full.
+Need to see all the group config lines.
+Could you fetch every group config from the system?
+I want a complete overview of each config group.
+Let me see the group config listing from start to end.
+Display the config group library we have compiled.
+Could I see the config group aggregator listing?
+Pull up all group templates used by devices.
+Show me each config group for my entire environment.
+I need a rundown of all group-based configs.
+Bring up the group templates for the entire fleet.
+Could you show me the config group structure? I'm curious.
+Display me every group config in your system.
+Give me the comprehensive list of config groups, thanks.
+Which group configs exist? I'd like to see them.
+Let me see the group config cluster we’ve got.
+Show the group-based configuration sets we track.
+List out each group config by name or ID.
+Could you bring me all config group outlines?
+I want to see all config group plans in place.
+Fetch me the device group config references, please.
+Display the config group repertoire we hold.
+Let me examine all group config entries now.
+Show me the entire group config doc, if you can.
+Could I see the group-based config library fully?
+Give me every config group you manage.
+List the config group definitions in one shot.
+Let me see the group config table, thanks.
+Show me the group config index right away.
+Which config groups do we store for any device type?
+Could you gather all group-based config references now?
+I'd like to see every group config, no omission.
+Please display the group config data in total.
+Get me the entire group config breakdown.
+List out every configuration group we have on record.
+Show me the library of group config references.
+Need an overview of config groups for all device types.
+Could you pull the entire group config summary?
+I want to see each group-based config assigned.
+Please retrieve the config group sets we hold.
+Show me the group config environment for my devices.
+Could I see the config group listing from top to bottom?
+I want the entire group config overview, please.
+List the group config blueprint for every device type.
+Display me each config group for all device families.
+Need all group templates on the screen.
+Could you show me each group config, line by line?
+Let me see the config group coverage in detail.
+Present all device config group templates, please.
+Bring up the group config ledger we maintain.
+Which group config solutions exist here?
+List me the entire group config listing, pronto.
+I want to see the group-based config table.
+Please reveal each config group in use.
+All group-based configuration sets, please.
+Could you fetch me every config group in the system?
+Display all the group config docs you have. 
+Let me see each config group option, thanks.
+Give me a full listing of group config references.
+Could you show me how many config groups we have?
+Bring me all group-based config objects at once.
+List every group config template, if possible.
+I want the entire group config loadout.
+Could you show me the config group data for each device?
+Display the group-based config sets we rely on.
+Fetch all the config groups in the environment.
+Let me see the group config aggregator quickly.
+Show me the entire group config arrangement we store.
+List the config group references in a single place.
+Please bring forth all group config resources.
+Show me the group config building blocks.
+Could you fetch each group-based config from storage?
+Let me see the entire set of group config lines.
+Pull up the group config directory, thanks.
+Give me the config group coverage for all device families.
+Show me the group config sets we can deploy.
+Which config groups exist? Provide the list.
+Could you show me every config group for every device type?
+List all the group templates, top to bottom.
+I want the full group config index on my screen.
+Please fetch each group configuration we store.
+Bring me the entire set of config group docs. 
+Could you gather the group config set we have curated?
+List me all config groups across the entire platform.
+I want a summation of every group config item.
+Pull in all group config entries, please.
+Could you show me each group config used on devices?
+Give me all the group templates for my environment.
+Please list the group config instructions we hold.
+I want to see the entire group config blueprint for everything.
+Display all config group definitions at once.
+Could I see the group-based config aggregator listing?
+List the group templates recognized by the system.
+Bring up the group config references for each device type.
+Need every group-based config on display.
+Could you fetch the group config entries from the system?
+I want the entire group config record, please.
+Display me the entire config group orchard. 
+Show me the group config sets we can apply.
+Please gather the config group data in one place.
+Could you present the entire set of group-based templates now?
+List all group config approaches for my devices.
+Pull up the group config domain for me.
+I need each group config example, thanks.
+Show me all config group permutations out there.
+Which config groups exist in the system? I'd like to see them.
+Could you show me the entire config group compendium, please?
+Give me all group config docs you can gather.
+Let me see each group template in the environment.
+List the group config definitions used for each device family.
+Bring me the big group config picture, thanks.
+I want to view all group-based config templates in detail.
+Could you fetch all config group references from the database?
+Please display every group config entry that exists.
+Fetch me the group config solutions for these devices.
+I want the entire group config index, with no missing items.
+Could you list out each group config on file?
+Bring up the group config set across all device types.
+Let me see the config group approach we use for each template.
+Show me each device's config group membership.
+List all group-based config expansions we have.
+Could you display the group config data for me now?
+Get me the entire group config aggregator, please.
+Please show each group template we currently use.
+Show me the library of config groups for all devices.
+Let me see each config group in the dashboard.
+Pull up all group config references from memory.
+Bring me each group config detail you have on record.
+Could you show me all config group synonyms? .
+Show me the entire group config orchard once more. 
+I need each config group we rely on for templating.
+Fetch me the big group config manifest.
+Let me see all the group config items in stock.
+Could I get the group config breakdown for all device families?
+Please display the group config records in detail.
+I want to examine each group template, please.
+Show me the config group library for all gear.
+Which group-based configs exist in the platform right now?
+Could you gather the group config docs for me to see?
+Display all device group configurations in a table.
+Let me see each config group in a short list.
+Pull every group config reference from the repository.
+Could you show me the group config definitions for every device type?
+Give me the group config summary we have stored.
+Need to see all the group config data relevant to templates.
+List the entire config group stable, if you can.
+I want the group config references displayed all at once.
+Could you fetch me every group config enumerated?
+Bring me the library of group-based config sets for my devices.
+Let me see the group config coverage across the platform.
+Display the group config categories we hold.
+Please get me a list of all group config sets.
+Could I see the entire config group orchard for the last time? 
+List out all group config items for all device families.
+Fetch me the group config blueprint for each device.
+I want the entire grouping of configuration sets, please.
+Display all group config references, top to bottom.
+Could you produce the group config index in full?
+Show me the aggregator of config groups we keep.
+Let me see each group config’s presence on devices.
+Pull the group config data for every device type, please.
+List me all configuration groups we have on record.
+Need an in-depth listing of group-based config templates.
+Show me the config group approach for each type of device.
+Give me all group config references in a single feed.
+Please list out the group config sets recognized by the system.
+Fetch all device group config items for me.
+I want to see the entire store of config groups in one list.
+Could you show me every group config we can apply?
+Bring me the group config doccuments. 
+Display the group-based config library for all device classes.
+Which group configs are loaded for my environment? Show me.
+Gather every config group line you can find, thanks.
+Could you list the group config solutions for each device type?
+I want a total breakdown of group-based configurations.
+Show me each group config we can push to devices.
+List me the config group dictionary, if it exists.
+Could you display all group templates for these devices?
+Get me the entire listing of group-based config sets, thanks.
+Pull up the group config register for a quick look.
+Let me see the entire config group library once again.
+All group config definitions, please show them.
+Could you gather the group config references from the system?
+Display me every group config detail you can.
+List out all group-based config sets in the environment.
+I need a swift look at each config group.
+Show me the config group array for all devices.
+Please fetch every group template from the system.
+Which configuration groups do we have for device templates?
+Could you show me the group config items we track?
+Bring me the entire group config library, top to bottom.
+Give me the config group summary we rely on.
+Could I see the entire group config structure for my netwok? 
+Let me see all config group possibilities.
+Could you show me the group config frameworks for each device type?
+Fetch all config group sets from the system now.
+I want the group config data overview, please.
+Bring me the entire listing of config group references.
+Which group templates do we hold for these devices?
+Show me the group config aggregator for all device types.
+Could you gather the entire group config matrix quickly?
+Need to see the config group library, front to back.
+Display me the group config sets in one place.
+Let me see the entire group config orchard for real. 
+Could I see each config group set in the system, short list?
+Give me a full readout of group-based configuration sets.
+I want all group template references, thanks.
+Please fetch every group config line we have.
+Could you display the group config roseter? 
+Pull up the entire list of group-based configurations.
+List the group config environment for each device type.
+Let me see the config group lumps for real. 
+Display the entire group config arrangement if possible.
+I want the big picture of group-based config sets.
+Gather me each group config reference in the system.
+Which config groups are loaded? Show them all.
+Could you show me every group configuration that's saved?
+Bring me all config group details in a short summary.
+Show me the group-based config library for my environment.
+I need the config group sets for every device type I have.
+Could you get me the entire group config blueprint for each device?
+Give me the config group references from top to bottom.
+Let me see all grouping templates, thanks.
+Display me the entire group config aggregator we have.
+List each device group config item that’s available.
+Could you show me the group config references for all device families?
+I want to see the library of config group documants.  
+Please fetch each config group from storage.
+Show me the big config group collection, thanks.
+Need all group-based configuration sets in plain sight.
+Could you gather the group config resources for me now?
+List me a summary of each config group we have.
+Bring me the config group roster, top to bottom.
+Let me see the entire group-based config approach we have.
+Could you show me all config group definitions stored in the system?
+Please open the group config library, I need to see it all.
+Show me the config group sets for all device categories we handle.
+List out each group config approach for me.
+Fetch me all group config lines from memory.
+I need to see every config group for my entire network.
+Could I see the group config aggregator in a single list?
+Get me the entire set of group config references now.
+Show me each group template that’s loaded in the dashboard.
+List the group configuration definitions we rely on.
+Bring up the group config docs, if you can. 
+Which group-based config sets do we hold for these devices?
+Could you show me the group config structure from top to bottom?
+Please fetch all group config items for a quick glance.
+Let me see the group templates we have in place.
+Gather all group config lines we have and list them.
+Which group config templates exist? I'd like to see them.
+List out every group-based config approach for each device type.
+Pull up the group config index, front to back.
+Give me a big summary of all config groups, please.
+Could you retrieve every group config reference from our system?
+I want a thorough listing of group-based configuration sets.
+Bring me the group config sets for my entire environment.
+Let me see every config group, no detail left out.
+Fetch the entire group config environment for me.
+Could you show me all of the config groups, plese? 

@@ -1,0 +1,209 @@
+=== Summary of Labeling Averages (Train: random, Test: random) ===
+Overall tag-level statistics: 
+
+    accuracy f1_weighted          tp          tn          fp          fn    f1_macro    f1_micro
+       0.993       0.993        1757        7064          12          12       0.945       0.993
+
+
+
+Tag-level statistics by class: 
+
+               class      f_beta   precision      recall     support          tp          tn          fp          fn
+                  O|       0.999       0.999       1.000        1535        1535         232           2           0
+        B|devicename       0.982       1.000       0.966          58          56        1711           0           2
+        E|devicename       0.912       0.929       0.897          58          52        1707           4           6
+        S|devicename       0.971       0.944       1.000         102         102        1661           6           0
+        I|devicename       0.857       1.000       0.750          16          12        1753           0           4
+
+
+
+Confusion matrix: 
+
+                            O|   B|devicena..   E|devicena..   S|devicena..   I|devicena..
+             O|           1535              0              0              0              0
+   B|devicena..              0             56              0              2              0
+   E|devicena..              2              0             52              4              0
+   S|devicena..              0              0              0            102              0
+   I|devicena..              0              0              4              0             12
+
+
+
+Sequence-level statistics: 
+
+ sequence_accuracy
+             0.979
+
+=== Summary of Labeling Averages (Train: random, Test: realistic) ===
+Overall tag-level statistics: 
+
+    accuracy f1_weighted          tp          tn          fp          fn    f1_macro    f1_micro
+       0.945       0.941        1742        7271         101         101       0.714       0.945
+
+
+
+Tag-level statistics by class: 
+
+               class      f_beta   precision      recall     support          tp          tn          fp          fn
+                  O|       0.994       0.988       1.000        1535        1535         289          19           0
+        B|devicename       0.894       0.988       0.816          98          80        1744           1          18
+        E|devicename       0.592       0.654       0.541          98          53        1717          28          45
+        S|devicename       0.701       0.539       1.000          62          62        1728          53           0
+        I|devicename       0.387       1.000       0.240          50          12        1793           0          38
+
+
+
+Confusion matrix: 
+
+                            O|   B|devicena..   E|devicena..   S|devicena..   I|devicena..
+             O|           1535              0              0              0              0
+   B|devicena..              2             80              0             16              0
+   E|devicena..             16              0             53             29              0
+   S|devicena..              0              0              0             62              0
+   I|devicena..              1              1             28              8             12
+
+
+
+Sequence-level statistics: 
+
+ sequence_accuracy
+             0.904
+
+=== Summary of Labeling Averages (Train: realistic, Test: random) ===
+Overall tag-level statistics: 
+
+    accuracy f1_weighted          tp          tn          fp          fn    f1_macro    f1_micro
+       1.000       1.000        1769        7076           0           0       1.000       1.000
+
+
+
+Tag-level statistics by class: 
+
+               class      f_beta   precision      recall     support          tp          tn          fp          fn
+                  O|       1.000       1.000       1.000        1535        1535         234           0           0
+        B|devicename       1.000       1.000       1.000          58          58        1711           0           0
+        E|devicename       1.000       1.000       1.000          58          58        1711           0           0
+        I|devicename       1.000       1.000       1.000          16          16        1753           0           0
+        S|devicename       1.000       1.000       1.000         102         102        1667           0           0
+
+
+
+Confusion matrix: 
+
+                            O|   B|devicena..   E|devicena..   I|devicena..   S|devicena..
+             O|           1535              0              0              0              0
+   B|devicena..              0             58              0              0              0
+   E|devicena..              0              0             58              0              0
+   I|devicena..              0              0              0             16              0
+   S|devicena..              0              0              0              0            102
+
+
+
+Sequence-level statistics: 
+
+ sequence_accuracy
+             0.990
+
+=== Summary of Labeling Averages (Train: realistic, Test: realistic) ===
+Overall tag-level statistics: 
+
+    accuracy f1_weighted          tp          tn          fp          fn    f1_macro    f1_micro
+       0.997       0.997        1837        7366           6           6       0.986       0.997
+
+
+
+Tag-level statistics by class: 
+
+               class      f_beta   precision      recall     support          tp          tn          fp          fn
+                  O|       0.999       0.999       1.000        1535        1535         306           2           0
+        B|devicename       0.995       1.000       0.990          98          97        1745           0           1
+        E|devicename       0.974       0.979       0.969          98          95        1743           2           3
+        I|devicename       0.980       1.000       0.960          50          48        1793           0           2
+        S|devicename       0.984       0.969       1.000          62          62        1779           2           0
+
+
+
+Confusion matrix: 
+
+                            O|   B|devicena..   E|devicena..   I|devicena..   S|devicena..
+             O|           1535              0              0              0              0
+   B|devicena..              0             97              0              0              1
+   E|devicena..              2              0             95              0              1
+   I|devicena..              0              0              2             48              0
+   S|devicena..              0              0              0              0             62
+
+
+
+Sequence-level statistics: 
+
+ sequence_accuracy
+             0.994
+
+=== Summary of Labeling Averages (Train: mix, Test: random) ===
+Overall tag-level statistics: 
+
+    accuracy f1_weighted          tp          tn          fp          fn    f1_macro    f1_micro
+       0.997       0.997        1763        7070           6           6       0.972       0.997
+
+
+
+Tag-level statistics by class: 
+
+               class      f_beta   precision      recall     support          tp          tn          fp          fn
+                  O|       1.000       1.000       1.000        1535        1535         234           0           0
+        B|devicename       0.991       1.000       0.983          58          57        1711           0           1
+        E|devicename       0.957       0.965       0.948          58          55        1709           2           3
+        I|devicename       0.933       1.000       0.875          16          14        1753           0           2
+        S|devicename       0.981       0.962       1.000         102         102        1663           4           0
+
+
+
+Confusion matrix: 
+
+                            O|   B|devicena..   E|devicena..   I|devicena..   S|devicena..
+             O|           1535              0              0              0              0
+   B|devicena..              0             57              0              0              1
+   E|devicena..              0              0             55              0              3
+   I|devicena..              0              0              2             14              0
+   S|devicena..              0              0              0              0            102
+
+
+
+Sequence-level statistics: 
+
+ sequence_accuracy
+             0.983
+
+=== Summary of Labeling Averages (Train: mix, Test: realistic) ===
+Overall tag-level statistics: 
+
+    accuracy f1_weighted          tp          tn          fp          fn    f1_macro    f1_micro
+       0.988       0.988        1821        7350          22          22       0.949       0.988
+
+
+
+Tag-level statistics by class: 
+
+               class      f_beta   precision      recall     support          tp          tn          fp          fn
+                  O|       0.998       0.996       1.000        1535        1535         302           6           0
+        B|devicename       0.963       0.989       0.939          98          92        1744           1           6
+        E|devicename       0.921       0.946       0.898          98          88        1740           5          10
+        S|devicename       0.925       0.861       1.000          62          62        1771          10           0
+        I|devicename       0.936       1.000       0.880          50          44        1793           0           6
+
+
+
+Confusion matrix: 
+
+                            O|   B|devicena..   E|devicena..   S|devicena..   I|devicena..
+             O|           1535              0              0              0              0
+   B|devicena..              1             92              0              5              0
+   E|devicena..              5              0             88              5              0
+   S|devicena..              0              0              0             62              0
+   I|devicena..              0              1              5              0             44
+
+
+
+Sequence-level statistics: 
+
+ sequence_accuracy
+             0.977

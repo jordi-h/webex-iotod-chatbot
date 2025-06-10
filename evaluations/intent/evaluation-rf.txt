@@ -1,0 +1,61 @@
+=== INTENT CLASSIFICATION (Per-Domain Evaluation, Independent of Domain Prediction) ===
+
+--- Domain: device ---
+Intent Classification Accuracy: 0.9265625
+Classification Report:
+                              precision    recall  f1-score   support
+
+get_all_device_applications     0.9222    0.9625    0.9419       160
+   get_all_device_locations     0.9080    0.9250    0.9164       160
+            get_all_devices     0.9704    0.8187    0.8881       160
+         get_device_by_name     0.9143    1.0000    0.9552       160
+
+                avg / total     0.9287    0.9266    0.9254       640
+
+Confusion Matrix:
+ [[154   2   1   3]
+ [  3 148   3   6]
+ [ 10  13 131   6]
+ [  0   0   0 160]]
+
+--- Domain: configuration ---
+Intent Classification Accuracy: 1.0
+Classification Report:
+                               precision    recall  f1-score   support
+
+get_all_configuration_groups     1.0000    1.0000    1.0000       160
+
+                 avg / total     1.0000    1.0000    1.0000       160
+
+Confusion Matrix:
+ [[160]]
+
+--- Domain: greeting ---
+Intent Classification Accuracy: 0.9
+Classification Report:
+              precision    recall  f1-score   support
+
+       exit     0.8547    0.9187    0.8855       160
+      greet     0.8974    0.8750    0.8861       160
+       help     0.9539    0.9062    0.9295       160
+
+avg / total     0.9020    0.9000    0.9004       480
+
+Confusion Matrix:
+ [[147   9   4]
+ [ 17 140   3]
+ [  8   7 145]]
+
+--- Domain: operation ---
+Intent Classification Accuracy: 0.990625
+Classification Report:
+                 precision    recall  f1-score   support
+
+get_all_alerts     0.9937    0.9875    0.9906       160
+get_all_events     0.9876    0.9938    0.9907       160
+
+   avg / total     0.9906    0.9906    0.9906       320
+
+Confusion Matrix:
+ [[158   2]
+ [  1 159]]

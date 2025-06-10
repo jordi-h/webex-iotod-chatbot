@@ -1,0 +1,8 @@
+python-dotenv
+psycopg2-binary
+mindmeld
+mindmeld[bot]
+mindmeld[transformers]
+mindmeld[tensorflow]
+protobuf==3.20.*
+tqdm

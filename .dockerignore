@@ -1,0 +1,12 @@
+.dockerignore
+.git
+.gitignore
+
+docker/*
+!docker/wait-for-it.sh
+
+other/
+
+README.md
+
+train.py

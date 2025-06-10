@@ -1,0 +1,50 @@
+RoBERTa
+--- Domain: greeting ---
+Intent Classification Accuracy: 0.975
+Classification Report:
+              precision    recall  f1-score   support
+
+       exit     0.9686    0.9625    0.9655       160
+      greet     0.9809    0.9625    0.9716       160
+       help     0.9756    1.0000    0.9877       160
+
+avg / total     0.9750    0.9750    0.9749       480
+
+Confusion Matrix:
+ [[154   3   3]
+ [  5 154   1]
+ [  0   0 160]]
+
+LR
+ --- Domain: greeting ---
+Intent Classification Accuracy: 0.9333333333333333
+Classification Report:
+              precision    recall  f1-score   support
+
+       exit     0.9146    0.9375    0.9259       160
+      greet     0.9030    0.9313    0.9169       160
+       help     0.9868    0.9313    0.9582       160
+
+avg / total     0.9348    0.9333    0.9337       480
+
+Confusion Matrix:
+ [[150   9   1]
+ [ 10 149   1]
+ [  4   7 149]]
+
+SVM
+--- Domain: greeting ---
+Intent Classification Accuracy: 0.8729166666666667
+Classification Report:
+              precision    recall  f1-score   support
+
+       exit     0.7727    0.9563    0.8547       160
+      greet     0.8865    0.7812    0.8306       160
+       help     1.0000    0.8812    0.9369       160
+
+avg / total     0.8864    0.8729    0.8741       480
+
+Confusion Matrix:
+ [[153   7   0]
+ [ 35 125   0]
+ [ 10   9 141]]

@@ -1,0 +1,173 @@
+=== Summary of Labeling Averages (Train: random, Test: random) ===
+Overall tag-level statistics: 
+
+    accuracy f1_weighted          tp          tn          fp          fn    f1_macro    f1_micro
+       0.991       0.991        1458        1458          13          13       0.977       0.991
+
+
+
+Tag-level statistics by class: 
+
+               class      f_beta   precision      recall     support          tp          tn          fp          fn
+                  O|       0.995       0.996       0.994        1311        1303         155           5           8
+        S|devicename       0.960       0.951       0.969         160         155        1303           8           5
+
+
+
+Confusion matrix: 
+
+                            O|   S|devicena..
+             O|           1303              8
+   S|devicena..              5            155
+
+
+
+Sequence-level statistics: 
+
+ sequence_accuracy
+             0.797
+
+=== Summary of Labeling Averages (Train: random, Test: realistic) ===
+Overall tag-level statistics: 
+
+    accuracy f1_weighted          tp          tn          fp          fn    f1_macro    f1_micro
+       0.991       0.991        1458        1458          13          13       0.977       0.991
+
+
+
+Tag-level statistics by class: 
+
+               class      f_beta   precision      recall     support          tp          tn          fp          fn
+                  O|       0.995       0.996       0.994        1311        1303         155           5           8
+        S|devicename       0.960       0.951       0.969         160         155        1303           8           5
+
+
+
+Confusion matrix: 
+
+                            O|   S|devicena..
+             O|           1303              8
+   S|devicena..              5            155
+
+
+
+Sequence-level statistics: 
+
+ sequence_accuracy
+             0.797
+
+=== Summary of Labeling Averages (Train: realistic, Test: random) ===
+Overall tag-level statistics: 
+
+    accuracy f1_weighted          tp          tn          fp          fn    f1_macro    f1_micro
+       0.990       0.991        1457        1457          14          14       0.976       0.990
+
+
+
+Tag-level statistics by class: 
+
+               class      f_beta   precision      recall     support          tp          tn          fp          fn
+                  O|       0.995       0.997       0.992        1311        1301         156           4          10
+        S|devicename       0.957       0.940       0.975         160         156        1301          10           4
+
+
+
+Confusion matrix: 
+
+                            O|   S|devicena..
+             O|           1301             10
+   S|devicena..              4            156
+
+
+
+Sequence-level statistics: 
+
+ sequence_accuracy
+             0.793
+
+=== Summary of Labeling Averages (Train: realistic, Test: realistic) ===
+Overall tag-level statistics: 
+
+    accuracy f1_weighted          tp          tn          fp          fn    f1_macro    f1_micro
+       0.990       0.991        1457        1457          14          14       0.976       0.990
+
+
+
+Tag-level statistics by class: 
+
+               class      f_beta   precision      recall     support          tp          tn          fp          fn
+                  O|       0.995       0.997       0.992        1311        1301         156           4          10
+        S|devicename       0.957       0.940       0.975         160         156        1301          10           4
+
+
+
+Confusion matrix: 
+
+                            O|   S|devicena..
+             O|           1301             10
+   S|devicena..              4            156
+
+
+
+Sequence-level statistics: 
+
+ sequence_accuracy
+             0.793
+
+=== Summary of Labeling Averages (Train: mix, Test: random) ===
+Overall tag-level statistics: 
+
+    accuracy f1_weighted          tp          tn          fp          fn    f1_macro    f1_micro
+       0.990       0.990        1456        1456          15          15       0.974       0.990
+
+
+
+Tag-level statistics by class: 
+
+               class      f_beta   precision      recall     support          tp          tn          fp          fn
+                  O|       0.994       0.996       0.992        1311        1301         155           5          10
+        S|devicename       0.954       0.939       0.969         160         155        1301          10           5
+
+
+
+Confusion matrix: 
+
+                            O|   S|devicena..
+             O|           1301             10
+   S|devicena..              5            155
+
+
+
+Sequence-level statistics: 
+
+ sequence_accuracy
+             0.795
+
+=== Summary of Labeling Averages (Train: mix, Test: realistic) ===
+Overall tag-level statistics: 
+
+    accuracy f1_weighted          tp          tn          fp          fn    f1_macro    f1_micro
+       0.990       0.990        1456        1456          15          15       0.974       0.990
+
+
+
+Tag-level statistics by class: 
+
+               class      f_beta   precision      recall     support          tp          tn          fp          fn
+                  O|       0.994       0.996       0.992        1311        1301         155           5          10
+        S|devicename       0.954       0.939       0.969         160         155        1301          10           5
+
+
+
+Confusion matrix: 
+
+                            O|   S|devicena..
+             O|           1301             10
+   S|devicena..              5            155
+
+
+
+Sequence-level statistics: 
+
+ sequence_accuracy
+             0.795

@@ -1,0 +1,640 @@
+Show me all devices.
+Give me the complete device list.
+I want to see all IoT devices at once.
+Can I see every device currently online?
+Let me see all equipment in the network.
+Pull up all devices for me.
+Can you get me the entire inventory of devices?
+What are all the devices in the system right now?
+Is there a way to view all routers, switches, and gateways?
+Let me check the full device list.
+How do I get a list of all my devices?
+I want all devices that are online.
+I'm looking for all connected devices in my environment.
+List all routers, switches, and gateways in one place.
+Can I see every device on my IoT dashboard?
+Let me see the entire set of networked devices.
+I need all devices that are active right now.
+Bring up the full inventory of devices.
+Pull up everything connected in the Cisco IoT Ops environment.
+Display every device that's part of my network.
+Which devices are online at the moment?
+Get me the total list of devices.
+I'd love to see all of my IoT devices.
+Is there a single list of all devices available?
+Could I get a comprehensive device list?
+Show me the entire roster of connected hardware.
+Pull up my complete device lineup.
+Bring up all IoT devices managed by the system.
+Let me see all the networked devices together.
+What devices are live on the Cisco IoT Ops Dashboard?
+Retrieve all devices that are currently online.
+Get me a listing of everything in my environment.
+Could you display all devices in the network?
+List every active device on the system.
+Let me check every device that is up and running.
+Show me the full set of managed hardware.
+Could I have the complete network device list?
+I'm looking for everything that's connected to IoT Ops.
+Pull up every router and switch under my control.
+Display every gateway and device in my network.
+I want to see every piece of equipment on the network.
+List out all my IoT devices.
+Could you retrieve all devices in the Cisco IoT Ops environment?
+Show me all gear under management.
+List everything that’s online in my network.
+Bring up every device for me to see.
+Get me the total hardware list.
+Can you show me every active device on the dashboard?
+I want all the hardware details in one go.
+Display the entire fleet of devices.
+I'm looking for a full device list.
+I need all active devices from the Cisco IoT Ops Dashboard.
+Retrieve every single device currently connected.
+Pull up the entire device roster for my network.
+Show me the full list of equipment connected now.
+List every managed device in the IoT Ops environment.
+Could you get me the complete set of IoT devices?
+Bring up all the network devices in the system.
+What devices are online across my whole environment?
+I want a summary of every connected device.
+I’d love to see all active routers and switches.
+Show me every gateway currently in operation.
+List all hardware in my network.
+Retrieve the entire set of IoT devices for me.
+Get me the list of all connected hardware.
+Let me see the device fleet.
+Is there a way to see everything that's online?
+Please display the comprehensive device roster.
+I want to check all IoT devices at once.
+Could you show me the entire hardware list?
+Bring up all the devices in my IoT Ops Dashboard.
+List the total number of devices I have.
+Get me everything that’s connected to the dashboard.
+I need a list of all devices I'm managing.
+How can I view every router, switch, and gateway?
+Show me all devices under my account.
+Let me see every device in the system.
+Which devices are currently reported as online?
+Display each piece of hardware I manage.
+I need to see the total device fleet.
+List every IoT device without leaving any out.
+Give me all the devices connected at this moment.
+Bring up every single router, switch, and gateway now.
+I want the big picture of all devices.
+Could I have the combined device list for my network?
+I'm looking for the network's entire device overview.
+How do I see a master list of all devices?
+Please list every piece of equipment under the Cisco IoT Ops Dashboard.
+Get me all the hardware details, please.
+Could you retrieve my entire device lineup?
+Display every device right now.
+Let me view the complete set of routers and gateways.
+What are all the devices monitored by the dashboard?
+Bring up the full range of devices for me.
+I’d like to see the entire device roster in one go.
+Can you show me all devices in the system?
+Please retrieve all my network devices currently active.
+Could you pull up every device in my environment?
+Get me the entire set of devices in the IoT Ops Dashboard.
+What devices are recognized by the system right now?
+I'd love a list of every single piece of hardware.
+List every online device from the dashboard.
+I want the full device roster from IoT Ops.
+How can I access a list of all devices?
+Let me see all IoT equipment connected currently.
+I need to look at all my online devices.
+Retrieve all gateways, routers, and switches.
+Is there a quick way to see every device?
+Pull up the broad list of everything connected.
+Get me a bird's-eye view of all devices.
+Show me the entire range of devices in the system.
+What are the devices currently under my IoT account?
+Could you give me a rundown of all hardware?
+Let me see all devices in the Cisco environment.
+How do I retrieve a list of all IoT devices?
+Show me everything that's currently under management.
+List all devices that are online right now.
+Bring up the total device list for me.
+Get me all the connected devices' names.
+Display every device in my account's inventory.
+Show me all network equipment at once.
+List out the full device stock in my IoT environment.
+Pull up the entire selection of routers and switches.
+What’s the comprehensive device roster for my network?
+Retrieve every device item from the Cisco Ops Dashboard.
+Give me the consolidated list of connected hardware.
+Could I have a look at all active devices in one go?
+List every machine recognized by the IoT Ops Dashboard.
+I want to see the whole set of gateways and routers.
+Is there a way to check all my devices at once?
+Display the entire device list for my account.
+Let me see which devices are operating right now.
+Get me a full inventory of everything on the network.
+Could you reveal every router, switch, and gateway I manage?
+Bring up an overview of all devices.
+Show me the entire managed device library.
+I'd like to see all Cisco IoT devices at once.
+Retrieve the entire device population in my network.
+Show me all online hardware in the IoT Ops system.
+Could you list out every router or switch I own?
+I want a complete snapshot of all active devices.
+Please display everything connected to my IoT environment.
+How do I get every piece of hardware in one place?
+Show me everything that's operational in my network.
+Bring up all my IoT devices from the dashboard.
+Could you retrieve the entire hardware roster?
+I want to see every device in the Cisco IoT Ops Dashboard.
+Pull up every device that’s currently reporting in.
+Display the complete device catalog.
+Which devices are on my network at the moment?
+Get me all the active devices in the system.
+Show me each piece of hardware that’s online.
+List every hardware component under IoT Ops.
+I need the full collection of devices in one view.
+What are all the devices currently linked to my account?
+Bring up the entire connected device array.
+Show me all the hardware reporting to the dashboard.
+List the full set of network devices for me.
+Get me the entire group of devices being tracked.
+Show me every device recognized in the Cisco IoT platform.
+Please display the entire device fleet I manage.
+How do I view every gateway or router I have?
+Give me a broad overview of all connected devices.
+I want to see all the devices in one shot.
+List everything the dashboard shows as online.
+Could you gather all active devices in a single list?
+Show me the network-wide device list, please.
+I'd love to view all IoT devices under Cisco management.
+Get me the full device register in the IoT Ops environment.
+Is there a command to see the entire device set?
+Retrieve all device entries from the Cisco IoT dashboard.
+Which devices are live on the IoT Ops system?
+Display every router and gateway in one table.
+Can you show me all hardware nodes online right now?
+Bring up the complete list of network devices.
+Could you retrieve a record of all online devices?
+I want to see everything currently recognized by Cisco IoT.
+Let me check the entire device matrix.
+Show me the big list of all routers, switches, and gateways.
+How do I see every device without missing any?
+List out the full roster of IoT equipment.
+I want to see the total device complement.
+Could you show me the entire set of devices currently on my network?
+Bring up every single IoT device under my domain.
+What are all devices recognized by the IoT Ops Dashboard?
+Display the total hardware environment for my account.
+Let me see all connected devices across the network.
+Show me the device summary for everything I manage.
+List the entire array of devices under Cisco Ops.
+Could you fetch me all devices on the network now?
+Get me the entire list of networked routers and switches.
+Is there a summary of every piece of hardware available?
+Please show me all the IoT hardware I have.
+I'd love to see every managed device right now.
+Let me check the total device listing in my network.
+Bring up all online devices in the Cisco IoT environment.
+How do I get a full readout of all devices?
+Show me the entire hardware list in one place.
+Pull up all devices from the IoT Ops Dashboard.
+Could I have a thorough list of all hardware components?
+I'd like to see everything online in my IoT setup.
+Bring up a total list of all connected gear.
+Display a complete map of every device.
+Get me the entire range of devices I'm running.
+Show me the entire device library under Cisco Ops.
+Could you list every device node that’s online?
+I need to see all connected hardware at once.
+Let me view every router, switch, and gateway in the system.
+List all my IoT devices in a single shot.
+I'd like an aggregated list of all devices I manage.
+Which items are actively on my Cisco IoT platform?
+Get me a list of all the hardware nodes I have.
+Please list every single gateway, router, and switch.
+List out everything recognized by Cisco IoT right now.
+Let me see the total inventory of hardware.
+Show me the entire suite of devices I'm responsible for.
+Get me all hardware currently connected to my dashboard.
+Let me check all the devices under the Cisco IoT umbrella.
+List the complete roster of devices I have online.
+Which devices are shown as online by the IoT Ops system?
+Bring up each hardware component that’s active.
+I want a single list of everything I’m managing.
+Could you fetch all the connected devices right now?
+Show me all devices that are on the network.
+Display all my IoT devices in the environment.
+List the entire group of routers, switches, and gateways.
+Let me see each piece of hardware recognized by IoT Ops.
+Could I get a directory of all devices currently active?
+Bring up every single device the dashboard knows about.
+List out the entire set of IoT devices for me.
+Could you show me every device that’s connected to the network?
+Show me all devices, please.
+Which devices are online in the Cisco IoT environment?
+I want a single place to see the entire device list.
+How do I see all connected gateways and routers?
+Could you list every active device in my environment?
+Get me everything that’s currently on my IoT dashboard.
+Let me see the entire device library for my account.
+I'd like a summary of all routers, switches, and gateways.
+Retrieve every item in my device inventory.
+List the full set of devices recognized by the system.
+Bring up every single piece of hardware I manage.
+What are all the devices under the Cisco IoT Ops Dashboard?
+Please give me the entire device roster.
+Let me view the entire device group in one shot.
+I want to see each router and gateway that’s online.
+Show me everything that's currently up in my IoT Ops Dashboard.
+List out all the hardware that's managed by Cisco IoT.
+What devices are currently online in my environment?
+Show me every node that’s active on my network.
+How do I see a single view of all devices online?
+Could you bring up the entire device suite I'm managing?
+List out all hardware that’s connected to IoT Ops.
+Pull up a complete device summary for my account.
+Which items are showing up in the Cisco IoT Ops Dashboard?
+Let me see every piece of hardware in one shot.
+Could you fetch all routers, switches, and gateways now?
+Get me the entire collection of active devices.
+Show me the entire active hardware roster.
+List the devices in my Cisco IoT environment, please.
+Could you provide me with every device managed by the dashboard?
+Let me see the full complement of devices I'm running.
+Show me the entire device lineup that’s live.
+I'd like to see all devices at once, please.
+What are the devices in the Cisco IoT Ops environment now?
+Get me every device that’s up and running currently.
+Display a master list of all the connected devices.
+List out each piece of gear that’s reporting in.
+Which devices are currently flagged as online?
+Show me everything the Cisco IoT Dashboard is tracking.
+Could I have a look at all active routers and switches right now?
+I want a total device count and list, please.
+Get me the entire set of hardware on my IoT dashboard.
+Let me see every piece of equipment in real time.
+Could you display the entire set of devices in one place?
+Please show me each active device from my network.
+Show me all gear that's currently online.
+Which equipment is online on my IoT dashboard?
+I want a quick list of all the devices connected.
+Retrieve all network equipment that’s active now.
+I need a total roster of every IoT device I'm running.
+Give me a rundown of all currently active devices.
+Let me see the entire lineup of hardware in my environment.
+Which devices are recognized in the Cisco IoT platform right now?
+Display the total set of routers, switches, and gateways.
+Bring up every piece of equipment I’ve connected.
+Show me a combined view of all my active devices.
+Could you list every device in a single overview?
+I want to see the entire device range in one shot.
+Pull up the full device set for my network.
+I need to see each router and gateway that’s online.
+Could you gather every connected device in one report?
+Show me the entire device set that’s online right now.
+What is the complete device list for my network?
+Can you show me every device that’s under Cisco IoT management?
+Let me have a full view of every active device in one go.
+Display the entire device catalog for my account.
+Pull up every piece of equipment that’s currently connected.
+Show me the consolidated list of everything on my network.
+List all devices that appear in the Cisco IoT Ops Dashboard.
+Could I see every device that’s still online?
+Retrieve a summary of all the hardware in my environment.
+I need to see the entire range of devices in one place.
+Display each router, switch, and gateway in the system.
+Bring up all devices in my IoT environment currently.
+Show me every device that's active on my dashboard.
+What are all the devices connected to my Cisco IoT account?
+Could you gather all hardware in the environment for me?
+Get me a single list of all currently managed devices.
+How do I see the full device inventory under management?
+Show me the entire array of devices I'm responsible for.
+List out all devices the system is tracking right now.
+Bring up the complete set of IoT hardware connected.
+Which devices does Cisco IoT Ops show as operational?
+Could I have a list of all active gear in my environment?
+I want to see every device recognized by the system.
+Show me all hardware that’s up in my environment.
+Could you list each device that’s currently online?
+I want every piece of network equipment displayed.
+Give me a complete list of all devices under my management.
+Let me check the device roster for all equipment.
+Can you show me each device that's active?
+Bring up each piece of equipment recognized by the platform.
+I want a quick list of all devices in my account.
+I need the entire device listing, please.
+Display the entire device collection in one shot.
+Can you show me each device that’s online now?
+I need a reference list of all the devices online.
+I need to see all devices currently managed.
+Could I see the complete set of devices in my environment?
+List every device in my network.
+Retrieve the full inventory of hardware in the system.
+I need the entire set of network devices visible.
+Bring up everything the IoT Ops system has recognized.
+Let me see all hardware under Cisco management.
+Retrieve all the devices that are operational in my environment.
+List every IoT asset in my environment.
+I need to see the entire inventory of connected devices.
+Bring up all system-recognized routers, switches, and gateways.
+I need an overview of every connected router, switch, and gateway.
+Can you show me everything the IoT Ops Dashboard sees?
+Is there a list of every device on my IoT dashboard?
+Let me see each device that's currently connected.
+I want to see every device my dashboard knows about.
+Let me check the entire set of IoT devices in my account.
+Could I see the entire device range for my account?
+I want the entire list of managed devices.
+I'd like to see everything that's connected.
+What devices are currently on my network?
+Bring up the total device index in my IoT setup.
+I want to see my entire device lineup in one list.
+Which devices are currently recognized as active by IoT Ops?
+Please display all routers, switches, and gateways in one shot.
+List every hardware node connected to my network.
+Which pieces of hardware are up and connected?
+List the entire hardware array for me.
+Give me every connected device, please.
+What's the list of connected hardware?
+How do I see all devices in one place?
+I need to check all gear connected to Cisco IoT.
+How do I get the entire device list displayed?
+List every machine connected to my IoT environment.
+How do I get a list of all connected hardware?
+What devices are recognized by my IoT environment now?
+I'd like a view of every device connected right now.
+Could I have a look at all devices being tracked?
+Is it possible to see all IoT devices at once?
+I need all the devices that are part of my environment.
+Display all the routers, switches, and gateways in a list.
+Pull up the entire infrastructure device list.
+Display all connected devices.
+Retrieve the total list of everything online.
+What are all the devices that are under this account?
+Let me see the complete inventory of devices I have.
+List the entire set of connected machines.
+Could you list everything that’s active on my IoT Dashboard?
+Display every piece of equipment that I own.
+Bring up the full device roster.
+Pull up the entire hardware inventory in one go.
+Show me a total listing of every device.
+Bring up each piece of hardware that’s currently up.
+I want to gather all devices in a single view.
+Bring up all gear on the IoT Ops Dashboard for me.
+Retrieve the entire device list for my network.
+Display every piece of hardware managed by the system.
+Could you list the full set of routers, switches, and gateways I own?
+Please display the entire device set for my environment.
+I want to see each piece of managed hardware at once.
+I need an all-in-one list of my IoT devices.
+Give me a rundown of all devices.
+Let me check all devices that are part of my IoT setup.
+Show me the entire device set for my environment.
+Get me all of my network devices on the IoT Ops Dashboard.
+List out every active IoT device for me.
+What are the routers and switches I have online?
+Please display all hardware elements in the system.
+Could I have every device currently showing as online?
+Show me every device node available.
+Bring up every router, switch, and gateway in the environment.
+I want to see every online device in my account.
+List me every device I have in the IoT Ops Dashboard.
+Pull all devices.
+Give every device now.
+I need device list.
+Bring me all hardware.
+List me every device.
+Could you display all connected devices?
+Can you list every device now?
+Fetch all devices please.
+Pull all devices please.
+I want every device now.
+Could you get every device now?
+Display device list.
+Give all IoT devices please.
+All hardware, please.
+Could you fetch all hardware?
+Pull me device list.
+Give me every device now.
+Pull device list.
+Fetch every device now please.
+Display all network devices now.
+Get every device now.
+Get all devices please.
+Give device list.
+Fetch all devices.
+Give all hardware now.
+List all network devices please.
+Can you show all hardware?
+Can you bring all devices?
+All network devices, please.
+Fetch me all connected devices.
+Pull all network devices.
+Display all IoT devices please.
+Give all connected devices.
+Give me all IoT devices.
+Can you bring every device?
+List all hardware please.
+Fetch all network devices now.
+Show all network devices.
+Show all connected devices please.
+Give all devices.
+Show me all network devices.
+Get me all connected devices.
+Bring me every device now.
+Show me every device now.
+Can you get all network devices?
+Display me all connected devices.
+List all IoT devices.
+Can you show every device?
+Can you list device list?
+I need every device now.
+Can you give all hardware?
+Can you list all network devices?
+Give all hardware.
+Show all IoT devices please.
+Could you bring every device now?
+Can you list all IoT devices?
+Get all network devices now.
+Bring me all network devices.
+I want all devices.
+Could you bring every device?
+Can you fetch all hardware?
+Could you display all network devices?
+Pull all connected devices now.
+Bring every device please.
+Could you fetch every device now?
+Could you fetch device list?
+Pull all hardware now.
+Can you pull every device?
+Could you list device list?
+Fetch me all hardware.
+Bring me all IoT devices.
+Fetch all network devices please.
+Can you pull device list?
+Display every device now.
+Can you list all connected devices?
+List all network devices.
+Show every device now now.
+List all IoT devices please.
+Can you get all devices?
+Could you bring all IoT devices?
+Could you get all hardware?
+Every device, please.
+Can you bring all hardware?
+Could you bring device list?
+Bring every device.
+Display all hardware now.
+List every device now now.
+Bring all network devices now.
+Can you list every device?
+Show all network devices now.
+Could you give every device?
+I want every device.
+List me device list.
+Can you get all hardware?
+Can you show all IoT devices?
+Give me every device.
+Give all network devices please.
+I want all connected devices.
+Could you show all hardware?
+Pull me all connected devices.
+Pull every device please.
+Could you give all hardware?
+List every device please.
+Fetch all hardware please.
+Could you show all devices?
+Can you give every device now?
+Can you pull all hardware?
+Could you get every device?
+Can you list all hardware?
+Pull all connected devices please.
+Give all connected devices now.
+Bring all network devices please.
+Can you pull all devices?
+Could you get all connected devices?
+Can you get all IoT devices?
+Display every device now please.
+Pull all devices now.
+Could you show every device now?
+Display all devices now.
+Could you list all network devices?
+Get all network devices.
+Show every device please.
+Give me all network devices.
+Pull all network devices now.
+Fetch me all devices.
+I want all network devices.
+Every device now, please.
+Show me all connected devices.
+Show every device now.
+Could you bring all connected devices?
+Show me all hardware.
+Give all IoT devices now.
+Could you give all network devices?
+Give all devices now.
+Get device list.
+Bring all hardware please.
+Show all IoT devices now.
+I want all hardware.
+Could you get all IoT devices?
+Could you bring all network devices?
+Can you bring every device now?
+Pull me all devices.
+Pull me all IoT devices.
+All connected devices, please.
+Could you pull all devices?
+Show every device.
+Could you list all IoT devices?
+Display me all network devices.
+Fetch device list now.
+List all connected devices now.
+I need all connected devices.
+I want all IoT devices.
+Could you list all devices?
+Display me every device now.
+I need every device.
+Show all hardware please.
+Bring device list now.
+Could you show device list?
+Bring every device now now.
+Display all devices please.
+Could you fetch all devices?
+Give me all hardware.
+Could you pull all connected devices?
+Give every device please.
+Could you give all connected devices?
+Fetch me every device now.
+List me all devices.
+Give all hardware please.
+Display me all devices.
+Could you pull all hardware?
+Give every device.
+Fetch all connected devices now.
+Bring all devices now.
+All devices, please.
+Get all connected devices.
+Get me all hardware.
+Display device list now.
+List every device now.
+Can you pull all network devices?
+Could you give all devices?
+Fetch me all IoT devices.
+I want device list.
+Pull all hardware please.
+Give me device list.
+Fetch all connected devices.
+I need all hardware.
+Display me all hardware.
+Give every device now.
+Can you fetch device list?
+Can you give all connected devices?
+Pull all IoT devices now.
+Could you list all connected devices?
+Could you display every device now?
+Could you show every device?
+Display all network devices please.
+Fetch every device now.
+Can you pull all IoT devices?
+Bring all network devices.
+Bring all IoT devices now.
+Could you fetch all network devices?
+Pull every device now.
+Get all devices.
+Could you give every device now?
+Can you show all devices?
+List all devices now.
+Can you fetch all IoT devices?
+Fetch device list please.
+Give all network devices now.
+Can you give every device?
+Could you get all devices?
+List me all hardware.
+Get every device now please.
+Could you give device list?
+Get me every device now.
+Show device list please.
+Show all network devices please.
+Show all connected devices.
+Could you pull all IoT devices?
+Give every device now please.
+Bring all connected devices please.
+Display every device please.
+Fetch all network devices.
+Bring all IoT devices please.
+Fetch me all network devices.
+Can you bring all network devices?
+Could you give all IoT devices?
+Display me every device now.
+Bring me every device.
+Can you display all network devices?
+List all IoT devices now.
+Fetch me all devices.
+Pull me all IoT devices.
+Bring all hardware please.
+I want all hardware.
+Could you get all IoT devices?
+Fetch me device list.
+Give me device list.
+I need all connected devices.
+Display me all hardware.
